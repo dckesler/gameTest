@@ -1,0 +1,26 @@
+{
+  "name": "gameTest",
+  "version": "1.0.0",
+  "description": "Just practicing physics and game stuff in React.",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.13.0"
+  },
+  "devDependencies": {
+    "babel": "^4.7.12",
+    "css-loader": "^0.9.1",
+    "babel-core": "^4.7.12",
+    "babel-loader": "^4.1.0",
+    "react-hot-loader": "^1.2.3",
+    "jsx-loader": "^0.12.2",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.7.3",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dan",
+  "license": "ISC"
+}
